@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2774.8 2765" style="enable-background:new 0 0 2774.8 2765;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F2EC33;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#BCA1E2;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#F40B0B;stroke-miterlimit:10;}
+	.st3{fill:#4EDD19;stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:#A1E5B1;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#EA1515;stroke-miterlimit:10;}
+	.st6{fill:#6197E5;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:#F2644C;stroke:#000000;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FF1A1A;stroke-linecap:round;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+
+
+
+<!--################  Yellow  ####################-->
+	<!--  Home tiles  -->
+<path class="st0" d="M904.1,1228c97,6.8,173.1,75.5,173.1,159.3c0,83.8-76.2,152.6-173.1,159.3"/> <!--win Tile-->
+<rect x="162.4" y="1227.6" class="st0" width="106" height="319.8"/>
+<rect x="286.4" y="1227.4" class="st0" width="106" height="319.8"/>
+<rect x="410.2" y="1227.4" class="st0" width="106" height="319.8"/>
+<rect x="534.2" y="1227.4" class="st0" width="106" height="319.8"/>
+<rect x="658.2" y="1227.6" class="st0" width="106" height="319.8"/>
+<rect x="782.2" y="1227.4" class="st0" width="106" height="319.8"/>
+
+
+<!--################  purple  ####################-->
+<rect x="2390.4" y="1226.9" class="st1" width="106" height="319.8"/>
+<rect x="2266.6" y="1226.9" class="st1" width="106" height="319.8"/>
+<rect x="1894.6" y="1226.9" class="st1" width="106" height="319.8"/>
+<rect x="2018.6" y="1226.6" class="st1" width="106" height="319.8"/>
+<rect x="2142.6" y="1226.9" class="st1" width="106" height="319.8"/>
+<rect x="2514.4" y="1226.6" class="st1" width="106" height="319.8"/>
+
+<!--################  Blue  ####################-->
+<rect x="1231.8" y="2386" class="st6" width="319.8" height="106"/>
+<rect x="1231.8" y="2262.2" class="st6" width="319.8" height="106"/>
+<rect x="1231.8" y="1890.2" class="st6" width="319.8" height="106"/>
+<rect x="1232.1" y="2014.2" class="st6" width="319.8" height="106"/>
+<rect x="1231.8" y="2138.2" class="st6" width="319.8" height="106"/>
+<rect x="1232.1" y="2510" class="st6" width="319.8" height="106"/>
+
+
+<!--################  Red  ####################-->
+
+
+<!--Home for Red pawns-->
+<rect x="1231.2" y="156.9" class="st7" width="319.8" height="106"/>
+<rect x="1231.4" y="280.9" class="st7" width="319.8" height="106"/>
+<rect x="1231.4" y="404.7" class="st7" width="319.8" height="106"/>
+<rect x="1231.4" y="528.7" class="st7" width="319.8" height="106"/>
+<rect x="1231.2" y="652.7" class="st7" width="319.8" height="106"/>
+<rect x="1231.4" y="776.7" class="st7" width="319.8" height="106"/>
+
+
+<!--  Tile 1 to 7 -->
+<rect x="904.2" y="33.1" class="st4" width="319.8" height="106" id="1"/>
+<rect x="904.2" y="157.1" class="st4" width="319.8" height="106" id="2"/>
+<rect x="904.2" y="281.1" class="st4" width="319.8" height="106" id="3"/>
+<rect x="904.2" y="404.9" class="st7" width="319.8" height="106" id="4"/>
+<rect x="904.2" y="528.9" class="st4" width="319.8" height="106" id="5"/>
+<rect x="904.2" y="652.9" class="st4" width="319.8" height="106" id="6"/>
+<rect x="904.2" y="776.9" class="st4" width="319.8" height="106" id="7"/>
+
+<!--  Tile 8 to 14 -->
+<rect x="782" y="899.6" class="st4" width="106" height="319.8" id="8"/>
+<rect x="658.2" y="899.6" class="st4" width="106" height="319.8" id="9"/>
+<rect x="534.2" y="899.6" class="st4" width="106" height="319.8" id="10"/>
+<rect x="410.2" y="899.6" class="st3" width="106" height="319.8" id="11"/>
+<rect x="286.4" y="899.6" class="st4" width="106" height="319.8" id="12"/>
+<rect x="162.4" y="899.6" class="st4" width="106" height="319.8" id="13"/>
+<rect x="38.4" y="899.4" class="st4" width="106" height="319.8" id="14"/>
+
+<!--  Tile 15 -->
+<rect x="38.4" y="1227.4" class="st3" width="106" height="319.8" id="15"/>
+
+<!--  Tile 16 to 22 -->
+<rect x="782.4" y="1554.8" class="st4" width="106" height="319.8"/>
+<rect x="658.4" y="1554.8" class="st4" width="106" height="319.8"/>
+<rect x="534.4" y="1554.8" class="st4" width="106" height="319.8"/>
+<rect x="410.5" y="1554.6" class="st0" width="106" height="319.8"/> <!--SpawnTile for Yellow-->
+<rect x="286.6" y="1554.6" class="st4" width="106" height="319.8"/>
+<rect x="162.6" y="1554.9" class="st4" width="106" height="319.8"/>
+<rect x="38.6" y="1554.6" class="st4" width="106" height="319.8"/>
+
+<!-- Tile 23 to 29 -->
+<rect x="904.1" y="1890.4" class="st4" width="319.8" height="106"/>
+<rect x="904.1" y="2014.2" class="st4" width="319.8" height="106"/>
+<rect x="904.1" y="2138.2" class="st4" width="319.8" height="106"/>
+<rect x="904.1" y="2262.2" class="st3" width="319.8" height="106"/>
+<rect x="904.1" y="2386" class="st4" width="319.8" height="106"/>
+<rect x="904.1" y="2510" class="st4" width="319.8" height="106"/>
+<rect x="904.1" y="2634" class="st4" width="319.8" height="106"/>
+
+<!-- Tile 30 -->
+<rect x="1231.8" y="2634" class="st3" width="319.8" height="106"/>
+
+<!-- Tile 31 to 37 -->
+<rect x="1559.1" y="1889.9" class="st4" width="319.8" height="106"/>
+<rect x="1559.1" y="2013.9" class="st4" width="319.8" height="106"/>
+<rect x="1559.1" y="2137.9" class="st4" width="319.8" height="106"/>
+<rect x="1559.1" y="2262" class="st6" width="319.8" height="106"/>
+<rect x="1559.1" y="2385.8" class="st4" width="319.8" height="106"/>
+<rect x="1559.1" y="2509.8" class="st4" width="319.8" height="106"/>
+<rect x="1559.1" y="2633.8" class="st4" width="319.8" height="106"/>
+
+<!-- Tile 38 to 44-->
+<rect x="2390.4" y="1554.8" class="st4" width="106" height="319.8"/>
+<rect x="2266.6" y="1554.8" class="st3" width="106" height="319.8"/>
+<rect x="1894.8" y="1554.8" class="st4" width="106" height="319.8"/>
+<rect x="2018.6" y="1554.8" class="st4" width="106" height="319.8"/>
+<rect x="2142.6" y="1554.8" class="st4" width="106" height="319.8"/>
+<rect x="2514.4" y="1554.8" class="st4" width="106" height="319.8"/>
+<rect x="2638.4" y="1554.8" class="st4" width="106" height="319.8"/>
+
+<!-- Tile 45 -->
+<rect x="2638.4" y="1226.9" class="st3" width="106" height="319.8"/>
+
+<!-- Tile 46 to 52 -->
+<rect x="2390.2" y="899.6" class="st4" width="106" height="319.8"/>
+<rect x="2266.4" y="899.6" class="st1" width="106" height="319.8"/>
+<rect x="2514.2" y="899.4" class="st4" width="106" height="319.8"/>
+<rect x="2638.2" y="899.6" class="st4" width="106" height="319.8"/>
+<rect x="1894.4" y="899.7" class="st4" width="106" height="319.8"/>
+<rect x="2018.4" y="899.5" class="st4" width="106" height="319.8"/>
+<rect x="2142.4" y="899.7" class="st4" width="106" height="319.8"/>
+
+<!-- Tile 53 to 59 -->
+<rect x="1559.2" y="32.8" class="st4" width="319.8" height="106"/>
+<rect x="1559.2" y="156.8" class="st4" width="319.8" height="106"/>
+<rect x="1559.2" y="280.8" class="st4" width="319.8" height="106"/>
+<rect x="1559.2" y="404.7" class="st3" width="319.8" height="106"/>
+<rect x="1559.2" y="528.7" class="st4" width="319.8" height="106"/>
+<rect x="1559.2" y="652.7" class="st4" width="319.8" height="106"/>
+<rect x="1559.2" y="776.5" class="st4" width="319.8" height="106"/>
+
+<!-- Tile 60 -->
+<rect x="1231.4" y="32.9" class="st3" width="319.8" height="106"/>
+
+
+<!--####### Win Tile #######-->
+<path class="st6" d="M1231.9,1874.9c6.8-97,75.5-173.1,159.3-173.1c83.8,0,152.6,76.2,159.3,173.1"/>
+<path class="st1" d="M1879.5,1554.5c-97-6.8-173.1-75.5-173.1-159.3c0-83.8,76.2-152.6,173.1-159.3"/>
+<path class="st7" d="M1551.2,898.3c-6.8,97-75.5,173.1-159.3,173.1c-83.8,0-152.6-76.2-159.3-173.1"/>
+
+
+<!--###########  Red Sapwn  ##########-->
+<path class="st7" d="M55.4,46.3c86.8,0,173.6,0.1,260.4,0.1c0,1.1,0,2.3,0,3.4c1.1,59.9-47.4,250.5-258.2,259c-0.8,0-1.7,0-2.5-0.1
+	c0-87.5,0.1-175,0.1-262.4"/>
+<path class="st7" d="M873.5,47.2c0,87-0.1,173.9-0.1,260.9c-1.1,0-2.2,0-3.4,0c-59.8,1.1-250.1-47.5-258.6-258.6
+	c0-0.8,0-1.7,0.1-2.5c87.3,0,174.7,0.1,262,0.1"/>
+<path class="st7" d="M54.4,865.8c0-87,0.1-173.9,0.1-260.9c1.1,0,2.2,0,3.4,0c59.8-1.1,250.1,47.5,258.6,258.6c0,0.8,0,1.7-0.1,2.5
+	c-87.3,0-174.7-0.1-262-0.1"/>
+<path class="st7" d="M872.6,866.7c-86.8,0-173.6-0.1-260.4-0.1c0-1.1,0-2.3,0-3.4c-1.1-59.9,47.4-250.5,258.2-259
+	c0.8,0,1.7,0,2.5,0.1c0,87.5-0.1,175-0.1,262.4"/>
+<!--##########  Yellow Spawn  ##########-->
+<path class="st0" d="M871.9,2723.7c-86.8,0-173.6-0.1-260.4-0.1c0-1.1,0-2.3,0-3.4c-1.1-59.9,47.4-250.5,258.2-259
+	c0.8,0,1.7,0,2.5,0.1c0,87.5-0.1,175-0.1,262.4"/>
+<path class="st0" d="M53.7,2722.8c0-87,0.1-173.9,0.1-260.9c1.1,0,2.2,0,3.4,0c59.8-1.1,250.1,47.5,258.6,258.6c0,0.8,0,1.7-0.1,2.5
+	c-87.3,0-174.7-0.1-262-0.1"/>
+<path class="st0" d="M872.8,1904.2c0,87-0.1,173.9-0.1,260.9c-1.1,0-2.2,0-3.4,0c-59.8,1.1-250.1-47.5-258.6-258.6
+	c0-0.8,0-1.7,0.1-2.5c87.3,0,174.7,0.1,262,0.1"/>
+<path class="st0" d="M54.7,1903.3c86.8,0,173.6,0.1,260.4,0.1c0,1.1,0,2.3,0,3.4c1.1,59.9-47.4,250.5-258.2,259
+	c-0.8,0-1.7,0-2.5-0.1c0-87.5,0.1-175,0.1-262.4"/>
+
+
+<path class="st1" d="M2728.3,867.1c-86.8,0-173.6-0.1-260.4-0.1c0-1.1,0-2.3,0-3.4c-1.1-59.9,47.4-250.5,258.2-259
+	c0.8,0,1.7,0,2.5,0.1c0,87.5-0.1,175-0.1,262.4"/>
+<path class="st1" d="M1910.1,866.2c0-87,0.1-173.9,0.1-260.9c1.1,0,2.2,0,3.4,0c59.8-1.1,250.1,47.5,258.6,258.6
+	c0,0.8,0,1.7-0.1,2.5c-87.3,0-174.7-0.1-262-0.1"/>
+<path class="st1" d="M2729.2,47.7c0,87-0.1,173.9-0.1,260.9c-1.1,0-2.2,0-3.4,0c-59.8,1.1-250.1-47.5-258.6-258.6
+	c0-0.8,0-1.7,0.1-2.5c87.3,0,174.7,0.1,262,0.1"/>
+<path class="st1" d="M1911,46.7c86.8,0,173.6,0.1,260.4,0.1c0,1.1,0,2.3,0,3.4c1.1,59.9-47.4,250.5-258.2,259c-0.8,0-1.7,0-2.5-0.1
+	c0-87.5,0.1-175,0.1-262.4"/>
+
+<path class="st6" d="M2727.8,2723.8c-86.8,0-173.6-0.1-260.4-0.1c0-1.1,0-2.3,0-3.4c-1.1-59.9,47.4-250.5,258.2-259
+	c0.8,0,1.7,0,2.5,0.1c0,87.5-0.1,175-0.1,262.4"/>
+<path class="st6" d="M1909.6,2722.9c0-87,0.1-173.9,0.1-260.9c1.1,0,2.2,0,3.4,0c59.8-1.1,250.1,47.5,258.6,258.6
+	c0,0.8,0,1.7-0.1,2.5c-87.3,0-174.7-0.1-262-0.1"/>
+<path class="st6" d="M2728.8,1904.3c0,87-0.1,173.9-0.1,260.9c-1.1,0-2.2,0-3.4,0c-59.8,1.1-250.1-47.5-258.6-258.6
+	c0-0.8,0-1.7,0.1-2.5c87.3,0,174.7,0.1,262,0.1"/>
+<path class="st6" d="M1910.6,1903.4c86.8,0,173.6,0.1,260.4,0.1c0,1.1,0,2.3,0,3.4c1.1,59.9-47.4,250.5-258.2,259
+	c-0.8,0-1.7,0-2.5-0.1c0-87.5,0.1-175,0.1-262.4"/>
+</svg>
